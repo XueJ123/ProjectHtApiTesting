@@ -1,0 +1,8 @@
+{
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/article/collections/1",
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded",
+    "Authorization": "Bearer 登录成功后返回的token值"
+  },
+  "expected_status_code": 204
+}

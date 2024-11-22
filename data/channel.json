@@ -1,0 +1,7 @@
+{
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/user/channels",
+  "headers": {"Content-Type": "application/json",
+                   "Authorization": "Bearer 登录成功后返回的token值"},
+  "expected_result": "OK",
+  "expected_status_code": 200
+}
